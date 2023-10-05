@@ -17,7 +17,7 @@ Implementación de API en FastAPI para el reconocimiento de entidades nombradas 
 2. Para ejecutar la API, se puede usar uvicorn:
 
   ```
-  uvicorn your_filename:app --reload
+  uvicorn entity_recognition:app --reload
   ```
  Una vez ejecutado el comando de uvicorn, ya se pueden enviar solicitudes POST a http://127.0.0.1:8000/ner/ con un JSON que contenga oraciones escritas en español.
 
