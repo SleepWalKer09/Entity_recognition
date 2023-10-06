@@ -20,6 +20,11 @@ Implementación de una API en FastAPI para el reconocimiento de entidades nombra
   ```
   Una vez ejecutado el comando anterior, podrás enviar solicitudes POST a http://127.0.0.1:8000/ner/ con un JSON que contenga oraciones en español.
 
+Captura de funcionamiento del Endpoint de la API:
+![image](https://github.com/SleepWalKer09/Entity_recognition/assets/44912298/9928cc1f-d04c-4fa1-9eda-88c130428866)
+
+
+
 Ejemplo de prueba:
 
  ```
